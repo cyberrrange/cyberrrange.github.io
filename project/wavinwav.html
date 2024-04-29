@@ -16,11 +16,11 @@
 
 <p><font color="#0000FF"  >
     <strong>Note:</strong><br>
-    - <strong>Cover Audio</strong> denotes the original, unaltered clean speech used as a basis for comparison in audio steganography experiments.<br>
-    - <strong>Stego Audio (LSB)</strong> refers to steganographic audio produced using the traditional 8-bit Least Significant Bit (LSB) method, a widely used technique in digital steganography for embedding secret messages.<br>
+    - <strong>Cover Audio</strong> denotes the original cover audio used to conceal secret.<br>
+    - <strong>Stego Audio (LSB)</strong> refers to stego audio produced using the traditional 8-bit Least Significant Bit (LSB) methods.<br>
     - <strong>Stego Audio (Freq. Chop)</strong> denotes audio where the method involved concatenating the upper frequency portion of the secret audio with the lower frequency portion of the cover audio to generate the stego audio. This method is a naïve baseline approach.<br>
-    - <strong>Stego Audio (Hide & Speak)</strong> refers to audio created using a deep-learning-based steganography approach, described in [3]. Both the model for this method and our proposed model were trained using the same dataset to ensure a fair comparison.<br>
-    - <strong>Stego Audio (Proposed)</strong> denotes our proposed method of audio steganography, designed to validate the effectiveness of our approach against state-of-the-art (SOTA) techniques.
+    - <strong>Stego Audio (Hide & Speak)</strong> refers to stego audio created using a deep-learning-based steganography approach, described in [3]. Both the model for this method and our proposed model were trained using the same dataset to ensure a fair comparison.<br>
+    - <strong>Stego Audio (Proposed)</strong> refers to stego audio created using our method.
 </font>
 </p>
 <table width="800" border="1">
@@ -112,8 +112,8 @@
 <h3>2. Comparison of Secret/Recovered Secret Audio Pairs</h3>
 <p><font color="#0000FF"  >
     <strong>Note:</strong><br>
-    - <strong>Secret Audio</strong> represents the confidential or hidden audio message that is embedded within the cover audio through various steganography techniques.<br>
-    - <strong>Recovered Secret Audio</strong> denotes the audio message that has been successfully extracted from the stego audio, demonstrating the effectiveness of the recovery process in revealing the embedded secret message.
+    - <strong>Secret Audio</strong> represents the original secret audio.<br>
+    - <strong>Recovered Secret Audio</strong> denotes the recovered audio that has been extracted from the stego audio.
 </font>
 </p>
 <table width="800" border="1">
