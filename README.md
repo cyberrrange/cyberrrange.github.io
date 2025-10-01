@@ -1,5 +1,9 @@
-# cyberrrange.github.io
-A reposity of github pages.
-## Pages list
-A demo page for paper "WavInWav: Time-domain Speech Hiding via Invertible Neural Network".
-https://cyberrrange.github.io/project/wavinwav
+# Fan Wei
+
+## Research
+De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks. _**Wei Fan**, Kejiang Chen, Chang Liu, Weiming Zhang, Nenghai Yu_. (ICML 2025)
+[[Paper](https://arxiv.org/abs/2507.02606)] [[Code](https://github.com/cyberrrange/De-AntiFake)] [[Project Page](https://de-antifake.github.io/)]
+
+WavInWav: Time-domain Speech Hiding via Invertible Neural Network. _**Wei Fan**, Kejiang Chen, Xiangkun Wang, Weiming Zhang, Nenghai Yu_.
+[[Project Page](https://cyberrrange.github.io/project/wavinwav)]
+
