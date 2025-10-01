@@ -1,4 +1,4 @@
-# Fan Wei
+# Wei Fan (范围)
 
 ## Research
 De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks. _**Wei Fan**, Kejiang Chen, Chang Liu, Weiming Zhang, Nenghai Yu_. (ICML 2025)
