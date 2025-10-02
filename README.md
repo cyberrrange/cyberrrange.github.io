@@ -6,5 +6,3 @@ De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attac
 
 WavInWav: Time-domain Speech Hiding via Invertible Neural Network. _**Wei Fan**, Kejiang Chen, Xiangkun Wang, Weiming Zhang, Nenghai Yu_.
 [[Project Page](https://cyberrrange.github.io/project/wavinwav)]
-
-Vector Database Watermarking. _Zhiwen Ren, Qiyi Yao, **Wei Fan**, Jing Qiu, Weiming Zhang, Nenghai Yu_. (NeurIPS 2025) [[Conference](https://neurips.cc/virtual/2025/poster/119208)] 
